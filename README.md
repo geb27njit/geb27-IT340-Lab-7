@@ -1,1 +1,1 @@
-# geb27-IT340-Lab-7
+# Lab 7: MEAN Stack Setup
